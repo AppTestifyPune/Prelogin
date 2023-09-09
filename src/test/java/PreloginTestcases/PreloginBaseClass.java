@@ -28,7 +28,7 @@ public class PreloginBaseClass
 	public int i=0;
 	
 	ExtentReports extent = new ExtentReports();
-	ExtentSparkReporter spark= new ExtentSparkReporter("target/Prelogin.html");
+	ExtentSparkReporter spark= new ExtentSparkReporter("test-output/Prelogin.html");
 	
 	@BeforeClass()
 	public void LaunchURL() throws Exception
