@@ -1174,3 +1174,24 @@
 2023-09-08 12:07:17,624 [main] INFO Prelogin - log: Test case 06.2 Passed
 2023-09-08 12:07:23,790 [main] INFO Prelogin - log: Test case 06.3 Passed
 2023-09-08 12:07:26,893 [main] INFO Prelogin - log: Test case 06.4 Passed
+2023-09-09 23:00:16,092 [main] INFO Prelogin - The URL Launch
+2023-09-09 23:00:19,326 [main] INFO Prelogin - log: Test 01 Passed
+2023-09-09 23:00:19,326 [main] INFO Prelogin - log: Test 01 Passed
+2023-09-09 23:00:19,326 [main] INFO Prelogin - log: Test 01 Passed
+2023-09-09 23:00:19,326 [main] INFO Prelogin - log: Test 01 Passed
+2023-09-09 23:00:19,326 [main] INFO Prelogin - log: Test 01 Passed
+2023-09-09 23:00:19,326 [main] INFO Prelogin - log: Test 01 Passed
+2023-09-09 23:00:24,758 [main] INFO Prelogin - log: Test case 02 Pass
+2023-09-09 23:00:24,758 [main] INFO Prelogin - log: Test case 02 pass
+2023-09-09 23:00:27,175 [main] INFO Prelogin - log: Test case 03 Passed
+2023-09-09 23:00:33,368 [main] INFO Prelogin - The URL Launch
+2023-09-09 23:00:34,921 [main] INFO Prelogin - log: Test case 04 Passed
+2023-09-09 23:00:46,109 [main] INFO Prelogin - log: Test case 05.1 Passed
+2023-09-09 23:00:49,586 [main] INFO Prelogin - log: Test case 5.2 Passed
+2023-09-09 23:00:51,704 [main] INFO Prelogin - Test case 5.3 Pass 
+2023-09-09 23:00:55,869 [main] INFO Prelogin - Test case 5.4 Pass
+2023-09-09 23:01:00,073 [main] INFO Prelogin - log: Test case 5.5 Passed
+2023-09-09 23:01:07,085 [main] INFO Prelogin - log: Test case 06.1 Passed
+2023-09-09 23:01:10,525 [main] INFO Prelogin - log: Test case 06.2 Passed
+2023-09-09 23:01:16,719 [main] INFO Prelogin - log: Test case 06.3 Passed
+2023-09-09 23:01:19,887 [main] INFO Prelogin - log: Test case 06.4 Passed
